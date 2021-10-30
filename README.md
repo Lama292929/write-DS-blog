@@ -1,2 +1,2 @@
 # write-DS-blog
-Writing a Data Science blog project 
+Data Scientist Nanodegree Program Project - I
