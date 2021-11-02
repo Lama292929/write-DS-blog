@@ -38,7 +38,6 @@ The main findings of the code can be found at the post available  ----------
 
 
 <h2> Licensing, Authors, Acknowledgements </h2>
-Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the kaggle link available <br>
-You will need to download the Disney+ Movies and TV Shows dataset from Kaggle and this is the link  to download https://www.kaggle.com/shivamb/disney-movies-and-tv-shows/version/1
+Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the kaggle link  https://www.kaggle.com/shivamb/disney-movies-and-tv-shows/version/1
 
 
