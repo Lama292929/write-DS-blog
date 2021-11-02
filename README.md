@@ -34,7 +34,7 @@ I was interested in using Disney+ Movies and TV Shows dataset from Kaggle datase
 <b> disney_plus_titles.csv: </b>  Movies and TV Shows listings on Disney+ data <br> 
   
 <h2> Results </h2> 
-The main findings of the code can be found at the post available [here] (https://medium.com/@lama22001133/project-data-science-blog-post-disney-movies-and-tv-shows-f11e58da2fc3) 
+The main findings of the code can be found at the post available at medium link https://medium.com/@lama22001133/project-data-science-blog-post-disney-movies-and-tv-shows-f11e58da2fc3
 
 
 <h2> Licensing, Authors, Acknowledgements </h2>
