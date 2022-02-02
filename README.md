@@ -34,7 +34,7 @@ write DS blog project - Disney+ dataset.ipynb: Notebook containing the data anal
 disney_plus_title.csv: Movies and Tv shows listing on Disney+ data
   
 <h2> Results </h2> 
-The main findings of the code can be found at the post available at medium link 
+The main findings of the code can be found at the post available at medium link  https://medium.com/@lama22001133/project-data-science-blog-post-disney-movies-and-tv-shows-f11e58da2fc3
 
 
 <h2> Licensing, Authors, Acknowledgements </h2>
